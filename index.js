@@ -3,7 +3,6 @@ var path = require("path");
 // var cors = require("cors");
 const app = express();
 const port = 3000;
-//runkit.com/
 
 // app.use(cors());
 app.get("/", (req, res) => {
